@@ -1,1 +1,1 @@
-[<img src="https://www.codewars.com/users/ndunnett/badges/large" />](https://www.codewars.com/users/ndunnett)
+[<img src="https://www.codewars.com/users/ndunnett/badges/small" />](https://www.codewars.com/users/ndunnett)
