@@ -3,6 +3,7 @@
 - My Advent of Code solutions: [ndunnett/aoc](https://github.com/ndunnett/aoc)
 - My projects:
   - FoxConnect: [ndunnett/foxconnect](https://github.com/ndunnett/foxconnect)
+  - GPUI Calculator: [ndunnett/gpui-calc](https://github.com/ndunnett/gpui-calc)
 - Docker related:
   - Python base image: [ndunnett/python](https://github.com/ndunnett/python)
   - Proton base image: [ndunnett/proton](https://github.com/ndunnett/proton)
