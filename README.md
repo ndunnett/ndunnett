@@ -15,6 +15,7 @@
   - "Build your own Shell": [ndunnett/codecrafters-shell-rust](https://github.com/ndunnett/codecrafters-shell-rust)
   - "Build your own grep": [ndunnett/codecrafters-grep-rust](https://github.com/ndunnett/codecrafters-grep-rust)
   - "Build your own Interpreter": [ndunnett/codecrafters-interpreter-rust](https://github.com/ndunnett/codecrafters-interpreter-rust)
+  - "Build Your Own HTTP server": [ndunnett/codecrafters-http-server-rust](https://github.com/ndunnett/codecrafters-http-server-rust)
 
 ##
 - Codewars: [![ndunnett](https://www.codewars.com/users/ndunnett/badges/micro)](https://www.codewars.com/users/ndunnett)
